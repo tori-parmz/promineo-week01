@@ -20,6 +20,7 @@ About the future that awaits us.
 A future ruled by rats.
 
 */
-console.log(myName + " " + middleName + " " + lastName)
+console.log(myName + " " + middleName)
+
 
 
